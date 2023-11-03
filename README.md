@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Josh Ampofo.
-- 👀 I’m interested in computational biology, python, machine learning and backend development.
-- 🌱 I’m currently training to be a Software Engineer with specialization in backend development with ALX.
-- 💞️ I’m looking to collaborate on projects in any of the fields mentioned above.
+- 👀 I’m interested in computational biology, python, machine learning and artificial intelligence with a focus on deep learning.
+- 🌱 I’m currently an AI/ML Intern with Trestle Academy.
+- 💞️ I’m looking to collaborate on projects in drug discovery and development, gene therapy, computer vision and many others.
 - 📫 How to reach me: @dev_ampofo on twitter and https://www.linkedin.com/in/joshua-ampofo-yentumi.
 
 <!---
