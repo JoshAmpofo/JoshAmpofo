@@ -19,6 +19,18 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshAmpofo&layout=compact&theme=tokyonight)
 
 
+#### **About ME:**
+
+I’m a Computational Biologist and AI/ML Engineer passionate about applying data and algorithms to solve real-world problems in medicine.
+
+I develop AI-driven drug discovery systems that generate and evaluate novel small-molecule compounds. My recent work includes building a generative AI model (patent pending) that produced 5,000+ novel, drug-like molecules, accelerating hit identification by over 80%. I’ve also contributed to the development of a machine learning model for IC₅₀ prediction, achieving 92% accuracy and improving compound activity predictions by nearly 60%.
+
+My toolkit includes Python, PyTorch, Nextflow, R, AutoDock Vina, UCSF Chimera, GNINA, DiffDock, and ADMETAi, which I use for genome annotation, variant interpretation, and protein–ligand modeling.
+
+What drives me is impact — the possibility that each dataset, model, or pipeline I design could help create better treatments or make healthcare more accessible, especially in underserved communities. 
+
+I’m always eager to collaborate with teams that share this vision of merging AI and life sciences to reshape the future of medicine.
+
 
 <!-- STREAK / ACTIVITY -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoshAmpofo&theme=tokyonight) -->
