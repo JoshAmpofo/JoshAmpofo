@@ -1,4 +1,4 @@
-# Hi, I'm JoshAmpofo 👋
+# 👋
 
 - 👋 Hi, I’m Josh Ampofo.
 - 👀 I’m interested in computational biology, python, machine learning and artificial intelligence with a focus on deep learning.
