@@ -2,7 +2,15 @@
 - This is where I do all things Comp. Bio
 - 👀 I’m interested in computational biology, Python, machine learning, and artificial intelligence with a focus on deep learning.
 - 💞️ I’m looking to collaborate on projects in drug discovery and development, gene therapy, computer vision, and many others.
-- 📫 How to reach me: @dev_ampofo on twitter and https://www.linkedin.com/in/joshua-ampofo-yentumi.
+
+
+  ### **How to contact me:**
+  <a href="https://x.com/dev_ampofo" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X — dev_ampofo" width="28" height="28" style="margin-right:8px;"/>
+</a>
+<a href="https://www.linkedin.com/in/joshua-ampofo-yentumi" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn — Joshua Ampofo" width="28" height="28"/>
+</a>
 
   
 
@@ -13,6 +21,8 @@
 <!-- GITHUB-README-STATS -->
 ![JoshAmpofo's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshAmpofo&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshAmpofo&layout=compact&theme=tokyonight)
+
+
 
 <!-- STREAK / ACTIVITY -->
 <!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoshAmpofo&theme=tokyonight) -->
