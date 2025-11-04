@@ -4,13 +4,9 @@
 - 💞️ I’m looking to collaborate on projects in drug discovery and development, gene therapy, computer vision, and many others.
 
 
-  ### **How to contact me:**
-  <a href="https://x.com/dev_ampofo" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X — dev_ampofo" width="28" height="28" style="margin-right:8px;"/>
-</a>
-<a href="https://www.linkedin.com/in/joshua-ampofo-yentumi" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn — Joshua Ampofo" width="28" height="28"/>
-</a>
+### **How to contact me:**
+<a href="https://x.com/dev_ampofo" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" alt="X — dev_ampofo" width="28" height="28" style="margin-right:8px;"/></a>
+<a href="https://www.linkedin.com/in/joshua-ampofo-yentumi" target="_blank" rel="noopener noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn — Joshua Ampofo" width="28" height="28"/></a>
 
   
 
