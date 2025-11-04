@@ -15,7 +15,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshAmpofo&layout=compact&theme=tokyonight)
 
 <!-- STREAK / ACTIVITY -->
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoshAmpofo&theme=tokyonight)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JoshAmpofo&theme=tokyonight) -->
 
 <!-- WAKATIME (optional) -->
 <!-- Replace WAKATIME_USERNAME with your WakaTime username if you use WakaTime -->
