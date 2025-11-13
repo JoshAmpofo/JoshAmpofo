@@ -1,7 +1,7 @@
 ### Hi there 👋
 - This is where I do all things Comp. Bio
 - 👀 I’m interested in computational biology, Python, machine learning, and artificial intelligence with a focus on deep learning.
-- 💞️ I’m looking to collaborate on projects in drug discovery and development, gene therapy, computer vision, and many others.
+- 💞️ I’m looking to collaborate on projects in drug discovery and development, gene therapy, infectious disease surveillance and modelling, and many others.
 
 
 ### **How to contact me:**
